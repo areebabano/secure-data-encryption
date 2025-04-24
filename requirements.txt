@@ -1,3 +1,4 @@
 streamlit
 cryptography
 streamlit-lottie
+python-dotenv
